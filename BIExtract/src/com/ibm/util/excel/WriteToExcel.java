@@ -1,6 +1,8 @@
 package com.ibm.util.excel;
 
 import java.io.FileOutputStream;
+import java.io.IOException;
+
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellStyle;
@@ -8,6 +10,7 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
 import java.io.File;
 
 public class WriteToExcel {
@@ -42,6 +45,8 @@ public class WriteToExcel {
         	fileOut.close();
         	System.out.println("Closed " + fileN);
         	return "";
+        } catch (IOException i) {
+        	System.out.println("WARNING - file " + fileN + " was already closed.");
         } catch (Exception p) {
         	return(p.toString());
         } 

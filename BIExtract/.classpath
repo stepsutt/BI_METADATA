@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/biplugins.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/boconfig.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/cecore.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/celib.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/cesdk.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/cesession.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/corbaidl.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/ebus405.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/jtools.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/logging.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/rebean.common.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/rebean.wi.adapter.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/rebean.wi.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/rebean.wi.model.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/rebean.wi.server.commands.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/rebean.wi.server.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/rebean.wi.server.requests.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/SL_plugins.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/xpp3_min.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/xpp3_xpath.jar"/>
-	<classpathentry kind="lib" path="C:/JARS/poi-3.10.1/ooxml-lib/dom4j-1.6.1.jar"/>
-	<classpathentry kind="lib" path="C:/JARS/poi-3.10.1/ooxml-lib/stax-api-1.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/JARS/poi-3.10.1/ooxml-lib/xmlbeans-2.6.0.jar"/>
-	<classpathentry kind="lib" path="C:/JARS/poi-3.10.1/poi-3.10.1-20140818.jar"/>
-	<classpathentry kind="lib" path="C:/JARS/poi-3.10.1/poi-ooxml-3.10.1-20140818.jar"/>
-	<classpathentry kind="lib" path="C:/JARS/poi-3.10.1/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/biplugins.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/boconfig.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/cecore.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/celib.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/cesdk.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/cesession.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/corbaidl.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/ebus405.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/jtools.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/logging.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/rebean.common.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/rebean.wi.adapter.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/rebean.wi.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/rebean.wi.model.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/rebean.wi.server.commands.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/rebean.wi.server.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/rebean.wi.server.requests.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/SL_plugins.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/xpp3_min.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/SAP BusinessObjects/SAP BusinessObjects Enterprise XI 4.0/java/lib/xpp3_xpath.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JARS/poi-3.10.1/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JARS/poi-3.10.1/ooxml-lib/stax-api-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JARS/poi-3.10.1/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JARS/poi-3.10.1/poi-3.10.1-20140818.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JARS/poi-3.10.1/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/JARS/poi-3.10.1/poi-ooxml-schemas-3.10.1-20140818.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
