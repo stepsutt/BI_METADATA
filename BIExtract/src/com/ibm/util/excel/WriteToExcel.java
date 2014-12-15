@@ -46,7 +46,7 @@ public class WriteToExcel {
         	System.out.println("Closed " + fileN);
         	return "";
         } catch (IOException i) {
-        	System.out.println("WARNING - file " + fileN + " was already closed.");
+        	return("File " + fileN + " not open.");
         } catch (Exception p) {
         	return(p.toString());
         } 
